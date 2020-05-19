@@ -13,6 +13,20 @@ posts:
     - 'fermentation'
     - 'sustainable'
     - 'hydroponic'
+  permalink: ':category/:year/:monthName/:slug'
+  authors:
+    - name: 'Author Two'
+      avatar: 'assets/images/avatar.jpg'
+      email: 'email@domain.tld'
+  postPages:
+    author: 'Author One'
+    layout: single
+    components:
+      - type: pageContent
+      - type: taxonomy
+        taxonomyType: tags
+      - type: taxonomy
+        taxonomyType: categories
 
 theme:
   social:
@@ -41,17 +55,6 @@ theme:
     - type: groupPages
       collectionType: pages
       collectionId: allPages
-
-taxonomies:
-  collectionArchives:
-    - collectionType: 'posts'
-      collectionId: 'blog'
-  taxonomies:
-    - key: tags
-      single: false
-      orderBy:
-        - entryCount
-
   sidebar:
     - type: recentPosts
       limit: 3
@@ -74,7 +77,18 @@ taxonomies:
   metaComponents:
     - type: orchidSearch
 
-services:
-  generators:
-    externalIndices:
-      - 'https://orchid.run/meta/all.index.json'
+taxonomies:
+  collectionArchives:
+    - collectionType: 'posts'
+  taxonomies:
+    - key: tags
+      single: false
+      orderBy:
+        - entryCount
+    - key: categories
+      single: false
+      singleKey: category
+      orderBy:
+        - year
+        - month
+        - title
