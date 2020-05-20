@@ -8,7 +8,6 @@ plugins {
 
 project.version = "1"
 
-
 repositories {
     jcenter()
     mavenLocal()
@@ -20,9 +19,9 @@ dependencies {
     orchidImplementation("io.github.javaeden.orchid:OrchidCore:$orchid_version")
     orchidRuntimeOnly("io.github.javaeden.orchid:OrchidPosts:$orchid_version")
     orchidRuntimeOnly("io.github.javaeden.orchid:OrchidPages:$orchid_version")
-    orchidRuntime("io.github.javaeden.orchid:OrchidWiki:$orchid_version")
-    //orchidRuntime("io.github.javaeden.orchid:OrchidNetlify:$orchid_version")
-    //orchidRuntime("io.github.javaeden.orchid:OrchidNetlifyCMS:$orchid_version")
+    orchidRuntimeOnly("io.github.javaeden.orchid:OrchidWiki:$orchid_version")
+    //orchidRuntimeOnly("io.github.javaeden.orchid:OrchidNetlify:$orchid_version")
+    //orchidRuntimeOnly("io.github.javaeden.orchid:OrchidNetlifyCMS:$orchid_version")
     orchidRuntimeOnly("io.github.javaeden.orchid:OrchidPluginDocs:$orchid_version")
     orchidRuntimeOnly("io.github.javaeden.orchid:OrchidSearch:$orchid_version")
     orchidRuntimeOnly("io.github.javaeden.orchid:OrchidWritersBlocks:$orchid_version")
@@ -35,3 +34,5 @@ dependencies {
 tasks.withType<KotlinCompile> {
     kotlinOptions.jvmTarget = "1.8"
 }
+
+
