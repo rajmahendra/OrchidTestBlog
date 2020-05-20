@@ -7,3 +7,12 @@ jdk: openjdk11
 
 script:
   - ./gradlew orchidBuild
+
+deploy:
+  provider: pages
+  local_dir: build/docs/orchid
+
+notifications:
+  email:
+    on_success: never
+    on_failure: always
