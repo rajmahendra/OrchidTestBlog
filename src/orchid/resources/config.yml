@@ -1,26 +1,31 @@
 site:
   about:
     siteName: "Rajmahendra's Blog"
-    subtitle: 'I have no special telent. I am only passionately curious'
-    siteDescription: 'Welcome to my website. You will learn and know more about Java, Kotlin, Community, Fermented food, Sustainable living,Hyderoponic etc.'
-    avatar: '/assets/media/logo.jpg'
+    subtitle: 'I have no special talent. I am only passionately curious'
+    siteDescription: 'Welcome to my website. You will learn and know more about Software technology (Mostly Java, Kotlin, Lightweight processes like Agile and Lean), Fermented food, Sustainable living,Gardening, Composting, Hyderoponic etc.'
+    avatar: '/assets/media/icon.png'
   theme: 'FutureImperfect'
 #  baseUrl: 'netlify'
 
 posts:
   categories:
     - 'personal'
+    - 'gardening'
+    - 'coding'
     - 'fermentation'
     - 'sustainable'
     - 'hydroponic'
-  permalink: ':category/:year/:monthName/:slug'
+    - 'travel'
+    - 'unboxing'
+  #permalink: ':category/:year/:monthName/:slug'
+  permalink: 'blog/:year/:monthName/:slug'
   authors:
-    - name: 'Author Two'
-      avatar: 'assets/images/avatar.jpg'
+    - name: 'Rajmahendra'
+      avatar: '/assets/media/icon.png'
       email: 'email@domain.tld'
   postPages:
-    author: 'Author One'
-    layout: single
+    author: 'Rajmahendra'
+    layout: index
     components:
       - type: pageContent
       - type: taxonomy
@@ -42,14 +47,14 @@ theme:
     - type: 'page'
       title: 'Home'
       url: '/'
-    #   - type: "wikiSections"
+#     - type: "wikiSections"
     - type: 'taxonomy'
       taxonomyType: 'categories'
-      includeTerms: true
-      termsAtRoot: true
+    - type: 'taxonomy'
+      taxonomyType: 'tags'
     - type: 'page'
       title: 'About'
-      itemId: 'Author One'
+      itemId: 'Rajmahendra'
     - type: "pages"
       atRoot: true
     - type: groupPages

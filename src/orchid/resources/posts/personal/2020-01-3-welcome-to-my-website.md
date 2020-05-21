@@ -1,6 +1,8 @@
 ---
-title: Example Post Category 1
+title: Welcome to my website
 featuredImage: assets/media/pic02.jpg
+category:
+  - personal
 tags:
     - two
 ---
