@@ -27,8 +27,12 @@ dependencies {
     orchidRuntimeOnly("io.github.javaeden.orchid:OrchidWritersBlocks:$orchid_version")
     orchidRuntimeOnly("io.github.javaeden.orchid:OrchidSyntaxHighlighter:$orchid_version")
     orchidRuntimeOnly("io.github.javaeden.orchid:OrchidTaxonomies:$orchid_version")
+      orchidRuntimeOnly("io.github.javaeden.orchid:OrchidAsciidoc:$orchid_version")
+
     orchidRuntimeOnly("io.github.javaeden.orchid:OrchidFutureImperfect:$orchid_version")
-    orchidRuntimeOnly("io.github.javaeden.orchid:OrchidAsciidoc:$orchid_version")
+  //  orchidRuntimeOnly("io.github.javaeden.orchid:OrchidEditorial:$orchid_version")
+   // orchidRuntimeOnly("io.github.javaeden.orchid:OrchidCopper:0.20.0")
+
 }
 
 tasks.withType<KotlinCompile> {

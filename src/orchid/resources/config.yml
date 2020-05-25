@@ -13,10 +13,6 @@ posts:
     - 'gardening'
     - 'coding'
     - 'fermentation'
-    - 'sustainable'
-    - 'hydroponic'
-    - 'travel'
-    - 'unboxing'
   #permalink: ':category/:year/:monthName/:slug'
   permalink: 'blog/:year/:monthName/:slug'
   authors:
@@ -41,13 +37,23 @@ theme:
     github: 'rajmahendra'
     other:
       - label: 'linkedin'
-        link: 'https://www.example.com'
-        icon: 'fa-tag'
+        link: 'https://www.linkedin.com/in/rajmahendrar'
+        icon: 'fa-linkedin'
+      - label: 'youtube'
+        link: 'https://www.youtube.com/user/rajmahendra'
+        icon: 'fa-youtube'
+      - label: 'codersrank'
+        link: 'https://profile.codersrank.io/user/rajmahendra/'
+        icon: 'fa-codersrank'
+      - label: 'reddit'
+        link: 'https://www.reddit.com/user/rrhegde'
+        icon: 'fa-reddit'
+
   menu:
+    - type: "wikiSections"
     - type: 'page'
-      title: 'Home'
-      url: '/'
-#     - type: "wikiSections"
+      title: 'Blog'
+      itemId: 'blog'
     - type: 'taxonomy'
       taxonomyType: 'categories'
     - type: 'taxonomy'
@@ -85,6 +91,9 @@ theme:
 taxonomies:
   collectionArchives:
     - collectionType: 'posts'
+#  collectionArchives:
+#    - collectionType: 'blog'
+#      archiveIndex: 50
   taxonomies:
     - key: tags
       single: false
