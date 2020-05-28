@@ -1,0 +1,40 @@
+{
+  "ownKey": "home",
+  "ownPages": [
+    {
+      "reference": {
+        "path": "",
+        "baseUrl": "/",
+        "fileName": "",
+        "extension": "html",
+        "usePrettyUrl": true,
+        "link": "/"
+      },
+      "next": {
+        "path": "blog",
+        "baseUrl": "/",
+        "fileName": "",
+        "extension": "html",
+        "usePrettyUrl": true,
+        "link": "/blog",
+        "title": "Blog"
+      },
+      "description": "",
+      "title": "Home",
+      "content": "<p>Homepage content<\/p>\n"
+    },
+    {
+      "reference": {
+        "path": "",
+        "baseUrl": "/",
+        "fileName": "404",
+        "extension": "html",
+        "usePrettyUrl": false,
+        "link": "/404.html"
+      },
+      "description": "",
+      "title": "Not Found",
+      "content": ""
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <id>/</id>
+        <title>Rajmahendra&#39;s Blog</title>
+        <link>/</link>
+        <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+        <description>Welcome to my website. You will learn and know more about Software technology (Mostly Java, Kotlin, Lightweight processes like Agile and Lean), Fermented food, Sustainable living,Gardening, Composting, Hyderoponic etc.</description>
+        <item>
+            <title>My Indoor Plant tour Dec 2019</title>
+            <guid>/blog/2020/january/my-indoor-plant-tour-dec-2019</guid>
+            <link>/blog/2020/january/my-indoor-plant-tour-dec-2019</link>
+            <description></description>
+        </item>
+        <item>
+            <title>How to make Tepache Probiotic Mexican Pineapple Drink</title>
+            <guid>/blog/2020/february/how-to-make-tepache-probiotic-mexican-pineapple-drink</guid>
+            <link>/blog/2020/february/how-to-make-tepache-probiotic-mexican-pineapple-drink</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Citrix Workstation is not connecting in Ubuntu</title>
+            <guid>/blog/2020/march/citrix-workstation-is-not-connecting-in-ubuntu</guid>
+            <link>/blog/2020/march/citrix-workstation-is-not-connecting-in-ubuntu</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Rajmahendra</title>
+            <guid>/authors/rajmahendra</guid>
+            <link>/authors/rajmahendra</link>
+            <description></description>
+        </item>
+        <item>
+            <title>Rajmahendra</title>
+            <guid>/authors/rajmahendra</guid>
+            <link>/authors/rajmahendra</link>
+            <description></description>
+        </item>
+        
+    </channel>
+</rss>

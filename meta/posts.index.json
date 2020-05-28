@@ -1,0 +1,104 @@
+{
+  "ownKey": "posts",
+  "childrenPages": {
+    "blog": {
+      "ownKey": "blog",
+      "childrenPages": {"2020": {
+        "ownKey": "2020",
+        "childrenPages": {
+          "january": {
+            "ownKey": "january",
+            "childrenPages": {"my-indoor-plant-tour-dec-2019": {
+              "ownKey": "my-indoor-plant-tour-dec-2019",
+              "ownPages": [{
+                "reference": {
+                  "path": "blog/2020/january",
+                  "baseUrl": "/",
+                  "fileName": "my-indoor-plant-tour-dec-2019",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "/blog/2020/january/my-indoor-plant-tour-dec-2019"
+                },
+                "description": "",
+                "title": "My Indoor Plant tour Dec 2019",
+                "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/K9WmZeCVYqM\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>\n<p>(This is a video I posted in my Youtube on December 2019. Just like to post it as an article here.)<\/p>\n"
+              }]
+            }}
+          },
+          "february": {
+            "ownKey": "february",
+            "childrenPages": {"how-to-make-tepache-probiotic-mexican-pineapple-drink": {
+              "ownKey": "how-to-make-tepache-probiotic-mexican-pineapple-drink",
+              "ownPages": [{
+                "reference": {
+                  "path": "blog/2020/february",
+                  "baseUrl": "/",
+                  "fileName": "how-to-make-tepache-probiotic-mexican-pineapple-drink",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "/blog/2020/february/how-to-make-tepache-probiotic-mexican-pineapple-drink"
+                },
+                "description": "",
+                "title": "How to make Tepache Probiotic Mexican Pineapple Drink",
+                "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/xqwRkTqzpdM\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>\n<p>My first video on how to make Fermented Probiotic drink, In this video i will show you how easy to make Tepache Fermented Probiotic Mexican Pineapple Drink<\/p>\n"
+              }]
+            }}
+          },
+          "march": {
+            "ownKey": "march",
+            "childrenPages": {"citrix-workstation-is-not-connecting-in-ubuntu": {
+              "ownKey": "citrix-workstation-is-not-connecting-in-ubuntu",
+              "ownPages": [{
+                "reference": {
+                  "path": "blog/2020/march",
+                  "baseUrl": "/",
+                  "fileName": "citrix-workstation-is-not-connecting-in-ubuntu",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "/blog/2020/march/citrix-workstation-is-not-connecting-in-ubuntu"
+                },
+                "description": "",
+                "title": "Citrix Workstation is not connecting in Ubuntu",
+                "content": "<script src=\"https://gist.github.com/rajmahendra/c45c73c1af35bfce259fe1f02551b527.js\"><\/script>\n"
+              }]
+            }}
+          }
+        }
+      }}
+    },
+    "authors": {
+      "ownKey": "authors",
+      "childrenPages": {"rajmahendra": {
+        "ownKey": "rajmahendra",
+        "ownPages": [
+          {
+            "reference": {
+              "path": "authors",
+              "baseUrl": "/",
+              "fileName": "rajmahendra",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "/authors/rajmahendra"
+            },
+            "description": "",
+            "title": "Rajmahendra",
+            "content": ""
+          },
+          {
+            "reference": {
+              "path": "authors",
+              "baseUrl": "/",
+              "fileName": "rajmahendra",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "/authors/rajmahendra"
+            },
+            "description": "",
+            "title": "Rajmahendra",
+            "content": ""
+          }
+        ]
+      }}
+    }
+  }
+}

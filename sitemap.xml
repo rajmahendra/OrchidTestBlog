@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd"
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <sitemap>
+        <loc>/sitemap-assets.xml</loc>
+        <lastmod>2020-05-28</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>/sitemap-external.xml</loc>
+        <lastmod>2020-05-28</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>/sitemap-forms.xml</loc>
+        <lastmod>2020-05-28</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>/sitemap-home.xml</loc>
+        <lastmod>2020-05-28</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>/sitemap-pages.xml</loc>
+        <lastmod>2020-05-28</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>/sitemap-posts.xml</loc>
+        <lastmod>2020-05-28</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>/sitemap-wiki.xml</loc>
+        <lastmod>2020-05-28</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>/sitemap-taxonomies.xml</loc>
+        <lastmod>2020-05-28</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>/sitemap-sitemap.xml</loc>
+        <lastmod>2020-05-28</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>/sitemap-feeds.xml</loc>
+        <lastmod>2020-05-28</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>/sitemap-indices.xml</loc>
+        <lastmod>2020-05-28</lastmod>
+    </sitemap>
+    
+</sitemapindex>

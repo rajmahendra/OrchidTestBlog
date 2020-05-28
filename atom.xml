@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Rajmahendra&#39;s Blog</title>
+    <link href="/"/>
+    <link href="/atom.xml" rel="self" type="application/rss+xml"/>
+    <id>/</id>
+    <updated>2020-05-28T17:56:57.904253T00:00:00Z</updated>
+    <entry>
+        <id>/blog/2020/january/my-indoor-plant-tour-dec-2019</id>
+        <link href="/blog/2020/january/my-indoor-plant-tour-dec-2019"/>
+        <title>My Indoor Plant tour Dec 2019</title>
+        <summary></summary>
+        <updated>2020-05-28T17:56:57.904253T00:00:00Z</updated>
+        <published>2020-01-21T00:00T00:00:00Z</published>
+    </entry>
+    <entry>
+        <id>/blog/2020/february/how-to-make-tepache-probiotic-mexican-pineapple-drink</id>
+        <link href="/blog/2020/february/how-to-make-tepache-probiotic-mexican-pineapple-drink"/>
+        <title>How to make Tepache Probiotic Mexican Pineapple Drink</title>
+        <summary></summary>
+        <updated>2020-05-28T17:56:57.901020T00:00:00Z</updated>
+        <published>2020-02-08T00:00T00:00:00Z</published>
+    </entry>
+    <entry>
+        <id>/blog/2020/march/citrix-workstation-is-not-connecting-in-ubuntu</id>
+        <link href="/blog/2020/march/citrix-workstation-is-not-connecting-in-ubuntu"/>
+        <title>Citrix Workstation is not connecting in Ubuntu</title>
+        <summary></summary>
+        <updated>2020-05-28T17:56:57.886690T00:00:00Z</updated>
+        <published>2020-03-10T00:00T00:00:00Z</published>
+    </entry>
+    <entry>
+        <id>/authors/rajmahendra</id>
+        <link href="/authors/rajmahendra"/>
+        <title>Rajmahendra</title>
+        <summary></summary>
+        <updated>2020-05-28T17:56:57.870712T00:00:00Z</updated>
+        <published>2020-05-28T17:56:57.870662T00:00:00Z</published>
+    </entry>
+    <entry>
+        <id>/authors/rajmahendra</id>
+        <link href="/authors/rajmahendra"/>
+        <title>Rajmahendra</title>
+        <summary></summary>
+        <updated>2020-05-28T17:56:57.868976T00:00:00Z</updated>
+        <published>2020-05-28T17:56:57.868923T00:00:00Z</published>
+    </entry>
+    
+</feed>

@@ -1,0 +1,321 @@
+{
+  "ownKey": "index",
+  "childrenPages": {
+    "categories": {
+      "ownKey": "categories",
+      "childrenPages": {
+        "coding": {
+          "ownKey": "coding",
+          "ownPages": [{
+            "reference": {
+              "path": "categories/coding",
+              "baseUrl": "/",
+              "fileName": "",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "/categories/coding",
+              "title": "Coding"
+            },
+            "description": "",
+            "title": "Coding",
+            "content": ""
+          }]
+        },
+        "gardening": {
+          "ownKey": "gardening",
+          "ownPages": [{
+            "reference": {
+              "path": "categories/gardening",
+              "baseUrl": "/",
+              "fileName": "",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "/categories/gardening",
+              "title": "Gardening"
+            },
+            "description": "",
+            "title": "Gardening",
+            "content": ""
+          }]
+        },
+        "fermentation": {
+          "ownKey": "fermentation",
+          "ownPages": [{
+            "reference": {
+              "path": "categories/fermentation",
+              "baseUrl": "/",
+              "fileName": "",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "/categories/fermentation",
+              "title": "Fermentation"
+            },
+            "description": "",
+            "title": "Fermentation",
+            "content": ""
+          }]
+        }
+      },
+      "ownPages": [{
+        "reference": {
+          "path": "categories",
+          "baseUrl": "/",
+          "fileName": "",
+          "extension": "html",
+          "usePrettyUrl": true,
+          "link": "/categories",
+          "title": "Categories"
+        },
+        "description": "",
+        "title": "Categories",
+        "content": ""
+      }]
+    },
+    "blog": {
+      "ownKey": "blog",
+      "childrenPages": {"2020": {
+        "ownKey": "2020",
+        "childrenPages": {
+          "january": {
+            "ownKey": "january",
+            "childrenPages": {"my-indoor-plant-tour-dec-2019": {
+              "ownKey": "my-indoor-plant-tour-dec-2019",
+              "ownPages": [{
+                "reference": {
+                  "path": "blog/2020/january",
+                  "baseUrl": "/",
+                  "fileName": "my-indoor-plant-tour-dec-2019",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "/blog/2020/january/my-indoor-plant-tour-dec-2019"
+                },
+                "description": "",
+                "title": "My Indoor Plant tour Dec 2019",
+                "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/K9WmZeCVYqM\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>\n<p>(This is a video I posted in my Youtube on December 2019. Just like to post it as an article here.)<\/p>\n"
+              }]
+            }}
+          },
+          "february": {
+            "ownKey": "february",
+            "childrenPages": {"how-to-make-tepache-probiotic-mexican-pineapple-drink": {
+              "ownKey": "how-to-make-tepache-probiotic-mexican-pineapple-drink",
+              "ownPages": [{
+                "reference": {
+                  "path": "blog/2020/february",
+                  "baseUrl": "/",
+                  "fileName": "how-to-make-tepache-probiotic-mexican-pineapple-drink",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "/blog/2020/february/how-to-make-tepache-probiotic-mexican-pineapple-drink"
+                },
+                "description": "",
+                "title": "How to make Tepache Probiotic Mexican Pineapple Drink",
+                "content": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/xqwRkTqzpdM\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>\n<p>My first video on how to make Fermented Probiotic drink, In this video i will show you how easy to make Tepache Fermented Probiotic Mexican Pineapple Drink<\/p>\n"
+              }]
+            }}
+          },
+          "march": {
+            "ownKey": "march",
+            "childrenPages": {"citrix-workstation-is-not-connecting-in-ubuntu": {
+              "ownKey": "citrix-workstation-is-not-connecting-in-ubuntu",
+              "ownPages": [{
+                "reference": {
+                  "path": "blog/2020/march",
+                  "baseUrl": "/",
+                  "fileName": "citrix-workstation-is-not-connecting-in-ubuntu",
+                  "extension": "html",
+                  "usePrettyUrl": true,
+                  "link": "/blog/2020/march/citrix-workstation-is-not-connecting-in-ubuntu"
+                },
+                "description": "",
+                "title": "Citrix Workstation is not connecting in Ubuntu",
+                "content": "<script src=\"https://gist.github.com/rajmahendra/c45c73c1af35bfce259fe1f02551b527.js\"><\/script>\n"
+              }]
+            }}
+          }
+        }
+      }},
+      "ownPages": [{
+        "reference": {
+          "path": "blog",
+          "baseUrl": "/",
+          "fileName": "",
+          "extension": "html",
+          "usePrettyUrl": true,
+          "link": "/blog",
+          "title": "Blog"
+        },
+        "description": "",
+        "title": "Blog",
+        "content": ""
+      }]
+    },
+    "authors": {
+      "ownKey": "authors",
+      "childrenPages": {"rajmahendra": {
+        "ownKey": "rajmahendra",
+        "ownPages": [
+          {
+            "reference": {
+              "path": "authors",
+              "baseUrl": "/",
+              "fileName": "rajmahendra",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "/authors/rajmahendra"
+            },
+            "description": "",
+            "title": "Rajmahendra",
+            "content": ""
+          },
+          {
+            "reference": {
+              "path": "authors",
+              "baseUrl": "/",
+              "fileName": "rajmahendra",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "/authors/rajmahendra"
+            },
+            "description": "",
+            "title": "Rajmahendra",
+            "content": ""
+          }
+        ]
+      }}
+    },
+    "tags": {
+      "ownKey": "tags",
+      "childrenPages": {
+        "ubuntu": {
+          "ownKey": "ubuntu",
+          "ownPages": [{
+            "reference": {
+              "path": "tags/ubuntu",
+              "baseUrl": "/",
+              "fileName": "",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "/tags/ubuntu",
+              "title": "Ubuntu"
+            },
+            "description": "",
+            "title": "Ubuntu",
+            "content": ""
+          }]
+        },
+        "plant-tour": {
+          "ownKey": "plant-tour",
+          "ownPages": [{
+            "reference": {
+              "path": "tags/plant-tour",
+              "baseUrl": "/",
+              "fileName": "",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "/tags/plant-tour",
+              "title": "Plant   Tour"
+            },
+            "description": "",
+            "title": "Plant   Tour",
+            "content": ""
+          }]
+        },
+        "tepache": {
+          "ownKey": "tepache",
+          "ownPages": [{
+            "reference": {
+              "path": "tags/tepache",
+              "baseUrl": "/",
+              "fileName": "",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "/tags/tepache",
+              "title": "Tepache"
+            },
+            "description": "",
+            "title": "Tepache",
+            "content": ""
+          }]
+        }
+      },
+      "ownPages": [{
+        "reference": {
+          "path": "tags",
+          "baseUrl": "/",
+          "fileName": "",
+          "extension": "html",
+          "usePrettyUrl": true,
+          "link": "/tags",
+          "title": "Tags"
+        },
+        "description": "",
+        "title": "Tags",
+        "content": ""
+      }]
+    }
+  },
+  "ownPages": [
+    {
+      "reference": {
+        "path": "",
+        "baseUrl": "/",
+        "fileName": "",
+        "extension": "html",
+        "usePrettyUrl": true,
+        "link": "/"
+      },
+      "next": {
+        "path": "blog",
+        "baseUrl": "/",
+        "fileName": "",
+        "extension": "html",
+        "usePrettyUrl": true,
+        "link": "/blog",
+        "title": "Blog"
+      },
+      "description": "",
+      "title": "Home",
+      "content": "<p>Homepage content<\/p>\n"
+    },
+    {
+      "reference": {
+        "path": "",
+        "baseUrl": "/",
+        "fileName": "404",
+        "extension": "html",
+        "usePrettyUrl": false,
+        "link": "/404.html"
+      },
+      "description": "",
+      "title": "Not Found",
+      "content": ""
+    },
+    {
+      "reference": {
+        "path": "",
+        "baseUrl": "/",
+        "fileName": "rss",
+        "extension": "xml",
+        "usePrettyUrl": false,
+        "link": "/rss.xml"
+      },
+      "description": "",
+      "title": "Rss",
+      "content": "<?xml version=\"1.0\"?>\n<rss version=\"2.0\" xmlns:atom=\"http://www.w3.org/2005/Atom\">\n    <channel>\n        <id>/<\/id>\n        <title>Rajmahendra&#39;s Blog<\/title>\n        <link>/<\/link>\n        <atom:link href=\"/rss.xml\" rel=\"self\" type=\"application/rss+xml\"/>\n        <description>Welcome to my website. You will learn and know more about Software technology (Mostly Java, Kotlin, Lightweight processes like Agile and Lean), Fermented food, Sustainable living,Gardening, Composting, Hyderoponic etc.<\/description>\n        <item>\n            <title>My Indoor Plant tour Dec 2019<\/title>\n            <guid>/blog/2020/january/my-indoor-plant-tour-dec-2019<\/guid>\n            <link>/blog/2020/january/my-indoor-plant-tour-dec-2019<\/link>\n            <description><\/description>\n        <\/item>\n        <item>\n            <title>How to make Tepache Probiotic Mexican Pineapple Drink<\/title>\n            <guid>/blog/2020/february/how-to-make-tepache-probiotic-mexican-pineapple-drink<\/guid>\n            <link>/blog/2020/february/how-to-make-tepache-probiotic-mexican-pineapple-drink<\/link>\n            <description><\/description>\n        <\/item>\n        <item>\n            <title>Citrix Workstation is not connecting in Ubuntu<\/title>\n            <guid>/blog/2020/march/citrix-workstation-is-not-connecting-in-ubuntu<\/guid>\n            <link>/blog/2020/march/citrix-workstation-is-not-connecting-in-ubuntu<\/link>\n            <description><\/description>\n        <\/item>\n        <item>\n            <title>Rajmahendra<\/title>\n            <guid>/authors/rajmahendra<\/guid>\n            <link>/authors/rajmahendra<\/link>\n            <description><\/description>\n        <\/item>\n        <item>\n            <title>Rajmahendra<\/title>\n            <guid>/authors/rajmahendra<\/guid>\n            <link>/authors/rajmahendra<\/link>\n            <description><\/description>\n        <\/item>\n        \n    <\/channel>\n<\/rss>\n"
+    },
+    {
+      "reference": {
+        "path": "",
+        "baseUrl": "/",
+        "fileName": "atom",
+        "extension": "xml",
+        "usePrettyUrl": false,
+        "link": "/atom.xml"
+      },
+      "description": "",
+      "title": "Atom",
+      "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n\n<feed xmlns=\"http://www.w3.org/2005/Atom\">\n    <title>Rajmahendra&#39;s Blog<\/title>\n    <link href=\"/\"/>\n    <link href=\"/atom.xml\" rel=\"self\" type=\"application/rss+xml\"/>\n    <id>/<\/id>\n    <updated>2020-05-28T17:56:57.904253T00:00:00Z<\/updated>\n    <entry>\n        <id>/blog/2020/january/my-indoor-plant-tour-dec-2019<\/id>\n        <link href=\"/blog/2020/january/my-indoor-plant-tour-dec-2019\"/>\n        <title>My Indoor Plant tour Dec 2019<\/title>\n        <summary><\/summary>\n        <updated>2020-05-28T17:56:57.904253T00:00:00Z<\/updated>\n        <published>2020-01-21T00:00T00:00:00Z<\/published>\n    <\/entry>\n    <entry>\n        <id>/blog/2020/february/how-to-make-tepache-probiotic-mexican-pineapple-drink<\/id>\n        <link href=\"/blog/2020/february/how-to-make-tepache-probiotic-mexican-pineapple-drink\"/>\n        <title>How to make Tepache Probiotic Mexican Pineapple Drink<\/title>\n        <summary><\/summary>\n        <updated>2020-05-28T17:56:57.901020T00:00:00Z<\/updated>\n        <published>2020-02-08T00:00T00:00:00Z<\/published>\n    <\/entry>\n    <entry>\n        <id>/blog/2020/march/citrix-workstation-is-not-connecting-in-ubuntu<\/id>\n        <link href=\"/blog/2020/march/citrix-workstation-is-not-connecting-in-ubuntu\"/>\n        <title>Citrix Workstation is not connecting in Ubuntu<\/title>\n        <summary><\/summary>\n        <updated>2020-05-28T17:56:57.886690T00:00:00Z<\/updated>\n        <published>2020-03-10T00:00T00:00:00Z<\/published>\n    <\/entry>\n    <entry>\n        <id>/authors/rajmahendra<\/id>\n        <link href=\"/authors/rajmahendra\"/>\n        <title>Rajmahendra<\/title>\n        <summary><\/summary>\n        <updated>2020-05-28T17:56:57.870712T00:00:00Z<\/updated>\n        <published>2020-05-28T17:56:57.870662T00:00:00Z<\/published>\n    <\/entry>\n    <entry>\n        <id>/authors/rajmahendra<\/id>\n        <link href=\"/authors/rajmahendra\"/>\n        <title>Rajmahendra<\/title>\n        <summary><\/summary>\n        <updated>2020-05-28T17:56:57.868976T00:00:00Z<\/updated>\n        <published>2020-05-28T17:56:57.868923T00:00:00Z<\/published>\n    <\/entry>\n    \n<\/feed>\n"
+    }
+  ]
+}

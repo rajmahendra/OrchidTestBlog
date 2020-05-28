@@ -1,0 +1,31 @@
+{
+  "ownKey": "feeds",
+  "ownPages": [
+    {
+      "reference": {
+        "path": "",
+        "baseUrl": "/",
+        "fileName": "rss",
+        "extension": "xml",
+        "usePrettyUrl": false,
+        "link": "/rss.xml"
+      },
+      "description": "",
+      "title": "Rss",
+      "content": "<?xml version=\"1.0\"?>\n<rss version=\"2.0\" xmlns:atom=\"http://www.w3.org/2005/Atom\">\n    <channel>\n        <id>/<\/id>\n        <title>Rajmahendra&#39;s Blog<\/title>\n        <link>/<\/link>\n        <atom:link href=\"/rss.xml\" rel=\"self\" type=\"application/rss+xml\"/>\n        <description>Welcome to my website. You will learn and know more about Software technology (Mostly Java, Kotlin, Lightweight processes like Agile and Lean), Fermented food, Sustainable living,Gardening, Composting, Hyderoponic etc.<\/description>\n        <item>\n            <title>My Indoor Plant tour Dec 2019<\/title>\n            <guid>/blog/2020/january/my-indoor-plant-tour-dec-2019<\/guid>\n            <link>/blog/2020/january/my-indoor-plant-tour-dec-2019<\/link>\n            <description><\/description>\n        <\/item>\n        <item>\n            <title>How to make Tepache Probiotic Mexican Pineapple Drink<\/title>\n            <guid>/blog/2020/february/how-to-make-tepache-probiotic-mexican-pineapple-drink<\/guid>\n            <link>/blog/2020/february/how-to-make-tepache-probiotic-mexican-pineapple-drink<\/link>\n            <description><\/description>\n        <\/item>\n        <item>\n            <title>Citrix Workstation is not connecting in Ubuntu<\/title>\n            <guid>/blog/2020/march/citrix-workstation-is-not-connecting-in-ubuntu<\/guid>\n            <link>/blog/2020/march/citrix-workstation-is-not-connecting-in-ubuntu<\/link>\n            <description><\/description>\n        <\/item>\n        <item>\n            <title>Rajmahendra<\/title>\n            <guid>/authors/rajmahendra<\/guid>\n            <link>/authors/rajmahendra<\/link>\n            <description><\/description>\n        <\/item>\n        <item>\n            <title>Rajmahendra<\/title>\n            <guid>/authors/rajmahendra<\/guid>\n            <link>/authors/rajmahendra<\/link>\n            <description><\/description>\n        <\/item>\n        \n    <\/channel>\n<\/rss>\n"
+    },
+    {
+      "reference": {
+        "path": "",
+        "baseUrl": "/",
+        "fileName": "atom",
+        "extension": "xml",
+        "usePrettyUrl": false,
+        "link": "/atom.xml"
+      },
+      "description": "",
+      "title": "Atom",
+      "content": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n\n<feed xmlns=\"http://www.w3.org/2005/Atom\">\n    <title>Rajmahendra&#39;s Blog<\/title>\n    <link href=\"/\"/>\n    <link href=\"/atom.xml\" rel=\"self\" type=\"application/rss+xml\"/>\n    <id>/<\/id>\n    <updated>2020-05-28T17:56:57.904253T00:00:00Z<\/updated>\n    <entry>\n        <id>/blog/2020/january/my-indoor-plant-tour-dec-2019<\/id>\n        <link href=\"/blog/2020/january/my-indoor-plant-tour-dec-2019\"/>\n        <title>My Indoor Plant tour Dec 2019<\/title>\n        <summary><\/summary>\n        <updated>2020-05-28T17:56:57.904253T00:00:00Z<\/updated>\n        <published>2020-01-21T00:00T00:00:00Z<\/published>\n    <\/entry>\n    <entry>\n        <id>/blog/2020/february/how-to-make-tepache-probiotic-mexican-pineapple-drink<\/id>\n        <link href=\"/blog/2020/february/how-to-make-tepache-probiotic-mexican-pineapple-drink\"/>\n        <title>How to make Tepache Probiotic Mexican Pineapple Drink<\/title>\n        <summary><\/summary>\n        <updated>2020-05-28T17:56:57.901020T00:00:00Z<\/updated>\n        <published>2020-02-08T00:00T00:00:00Z<\/published>\n    <\/entry>\n    <entry>\n        <id>/blog/2020/march/citrix-workstation-is-not-connecting-in-ubuntu<\/id>\n        <link href=\"/blog/2020/march/citrix-workstation-is-not-connecting-in-ubuntu\"/>\n        <title>Citrix Workstation is not connecting in Ubuntu<\/title>\n        <summary><\/summary>\n        <updated>2020-05-28T17:56:57.886690T00:00:00Z<\/updated>\n        <published>2020-03-10T00:00T00:00:00Z<\/published>\n    <\/entry>\n    <entry>\n        <id>/authors/rajmahendra<\/id>\n        <link href=\"/authors/rajmahendra\"/>\n        <title>Rajmahendra<\/title>\n        <summary><\/summary>\n        <updated>2020-05-28T17:56:57.870712T00:00:00Z<\/updated>\n        <published>2020-05-28T17:56:57.870662T00:00:00Z<\/published>\n    <\/entry>\n    <entry>\n        <id>/authors/rajmahendra<\/id>\n        <link href=\"/authors/rajmahendra\"/>\n        <title>Rajmahendra<\/title>\n        <summary><\/summary>\n        <updated>2020-05-28T17:56:57.868976T00:00:00Z<\/updated>\n        <published>2020-05-28T17:56:57.868923T00:00:00Z<\/published>\n    <\/entry>\n    \n<\/feed>\n"
+    }
+  ]
+}

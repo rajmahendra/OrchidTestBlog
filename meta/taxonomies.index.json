@@ -1,0 +1,162 @@
+{
+  "ownKey": "taxonomies",
+  "childrenPages": {
+    "categories": {
+      "ownKey": "categories",
+      "childrenPages": {
+        "coding": {
+          "ownKey": "coding",
+          "ownPages": [{
+            "reference": {
+              "path": "categories/coding",
+              "baseUrl": "/",
+              "fileName": "",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "/categories/coding",
+              "title": "Coding"
+            },
+            "description": "",
+            "title": "Coding",
+            "content": ""
+          }]
+        },
+        "gardening": {
+          "ownKey": "gardening",
+          "ownPages": [{
+            "reference": {
+              "path": "categories/gardening",
+              "baseUrl": "/",
+              "fileName": "",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "/categories/gardening",
+              "title": "Gardening"
+            },
+            "description": "",
+            "title": "Gardening",
+            "content": ""
+          }]
+        },
+        "fermentation": {
+          "ownKey": "fermentation",
+          "ownPages": [{
+            "reference": {
+              "path": "categories/fermentation",
+              "baseUrl": "/",
+              "fileName": "",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "/categories/fermentation",
+              "title": "Fermentation"
+            },
+            "description": "",
+            "title": "Fermentation",
+            "content": ""
+          }]
+        }
+      },
+      "ownPages": [{
+        "reference": {
+          "path": "categories",
+          "baseUrl": "/",
+          "fileName": "",
+          "extension": "html",
+          "usePrettyUrl": true,
+          "link": "/categories",
+          "title": "Categories"
+        },
+        "description": "",
+        "title": "Categories",
+        "content": ""
+      }]
+    },
+    "blog": {
+      "ownKey": "blog",
+      "ownPages": [{
+        "reference": {
+          "path": "blog",
+          "baseUrl": "/",
+          "fileName": "",
+          "extension": "html",
+          "usePrettyUrl": true,
+          "link": "/blog",
+          "title": "Blog"
+        },
+        "description": "",
+        "title": "Blog",
+        "content": ""
+      }]
+    },
+    "tags": {
+      "ownKey": "tags",
+      "childrenPages": {
+        "ubuntu": {
+          "ownKey": "ubuntu",
+          "ownPages": [{
+            "reference": {
+              "path": "tags/ubuntu",
+              "baseUrl": "/",
+              "fileName": "",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "/tags/ubuntu",
+              "title": "Ubuntu"
+            },
+            "description": "",
+            "title": "Ubuntu",
+            "content": ""
+          }]
+        },
+        "plant-tour": {
+          "ownKey": "plant-tour",
+          "ownPages": [{
+            "reference": {
+              "path": "tags/plant-tour",
+              "baseUrl": "/",
+              "fileName": "",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "/tags/plant-tour",
+              "title": "Plant   Tour"
+            },
+            "description": "",
+            "title": "Plant   Tour",
+            "content": ""
+          }]
+        },
+        "tepache": {
+          "ownKey": "tepache",
+          "ownPages": [{
+            "reference": {
+              "path": "tags/tepache",
+              "baseUrl": "/",
+              "fileName": "",
+              "extension": "html",
+              "usePrettyUrl": true,
+              "link": "/tags/tepache",
+              "title": "Tepache"
+            },
+            "description": "",
+            "title": "Tepache",
+            "content": ""
+          }]
+        }
+      },
+      "ownPages": [{
+        "reference": {
+          "path": "tags",
+          "baseUrl": "/",
+          "fileName": "",
+          "extension": "html",
+          "usePrettyUrl": true,
+          "link": "/tags",
+          "title": "Tags"
+        },
+        "description": "",
+        "title": "Tags",
+        "content": ""
+      }]
+    }
+  }
+}
