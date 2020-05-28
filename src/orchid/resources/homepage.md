@@ -5,6 +5,10 @@ components:
   - type: recentPosts
     limit: 4
     category: ':any'
+    noWrapper: true
+    template:
+      - 'includes/postPreview_large'
+next: 'blog'
 ---
 
 Homepage content
