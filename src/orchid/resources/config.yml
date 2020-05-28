@@ -90,10 +90,17 @@ theme:
 
 taxonomies:
   collectionArchives:
-    - collectionType: 'posts'
-#  collectionArchives:
-#    - collectionType: 'blog'
-#      archiveIndex: 50
+    - title: 'Blog'
+      key: 'blog'
+      merge:
+        - collectionType: 'posts'
+          collectionId: 'personal'
+        - collectionType: 'posts'
+          collectionId: 'gardening'
+        - collectionType: 'posts'
+          collectionId: 'coding'
+        - collectionType: 'posts'
+          collectionId: 'fermentation'
   taxonomies:
     - key: tags
       single: false
